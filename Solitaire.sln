@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solitaire", "Solitaire\Solitaire.csproj", "{56A8D7BC-77F0-434F-9C4C-E757CF8788F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A8D7BC-77F0-434F-9C4C-E757CF8788F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A8D7BC-77F0-434F-9C4C-E757CF8788F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A8D7BC-77F0-434F-9C4C-E757CF8788F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A8D7BC-77F0-434F-9C4C-E757CF8788F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E0DBA8-9AA5-4C6C-BC92-A72C170FB572}
+	EndGlobalSection
+EndGlobal

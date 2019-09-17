@@ -1,0 +1,7 @@
+D:\Z pulpitu\Solitaire\Solitaire\bin\Debug\Solitaire.exe.config
+D:\Z pulpitu\Solitaire\Solitaire\bin\Debug\Solitaire.exe
+D:\Z pulpitu\Solitaire\Solitaire\bin\Debug\Solitaire.pdb
+D:\Z pulpitu\Solitaire\Solitaire\obj\Debug\Solitaire.csprojAssemblyReference.cache
+D:\Z pulpitu\Solitaire\Solitaire\obj\Debug\Solitaire.csproj.CoreCompileInputs.cache
+D:\Z pulpitu\Solitaire\Solitaire\obj\Debug\Solitaire.exe
+D:\Z pulpitu\Solitaire\Solitaire\obj\Debug\Solitaire.pdb
