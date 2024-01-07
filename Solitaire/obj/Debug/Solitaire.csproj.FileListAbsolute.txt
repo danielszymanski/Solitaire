@@ -5,3 +5,11 @@ D:\Z pulpitu\Solitaire\Solitaire\obj\Debug\Solitaire.csprojAssemblyReference.cac
 D:\Z pulpitu\Solitaire\Solitaire\obj\Debug\Solitaire.csproj.CoreCompileInputs.cache
 D:\Z pulpitu\Solitaire\Solitaire\obj\Debug\Solitaire.exe
 D:\Z pulpitu\Solitaire\Solitaire\obj\Debug\Solitaire.pdb
+C:\Users\Daniel\Desktop\Magiczny folder\Inżynierka\Solitaire\Solitaire\obj\Debug\Solitaire.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Magiczny folder\Inżynierka\Solitaire\Solitaire\obj\Debug\Solitaire.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\Magiczny folder\Inżynierka\Solitaire\Solitaire\obj\Debug\Solitaire.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Magiczny folder\Inżynierka\Solitaire\Solitaire\obj\Debug\Solitaire.exe
+C:\Users\Daniel\Desktop\Magiczny folder\Inżynierka\Solitaire\Solitaire\obj\Debug\Solitaire.pdb
+C:\Users\Daniel\Desktop\Magiczny folder\Inżynierka\Solitaire\Solitaire\bin\Debug\Solitaire.exe.config
+C:\Users\Daniel\Desktop\Magiczny folder\Inżynierka\Solitaire\Solitaire\bin\Debug\Solitaire.exe
+C:\Users\Daniel\Desktop\Magiczny folder\Inżynierka\Solitaire\Solitaire\bin\Debug\Solitaire.pdb

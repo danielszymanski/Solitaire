@@ -123,7 +123,7 @@ namespace Solitaire
 
                             foreach (int states in createdStates)
                             {
-                                Console.WriteLine("Created stanów {0}: {1}", index_states2, states);
+                                Console.WriteLine("Created states {0}: {1}", index_states2, states);
                                 index_states2++;
                             }
 
@@ -201,7 +201,7 @@ namespace Solitaire
                         Console.Write("States created: ");
                         Console.WriteLine(createdStates[h]);
 
-                        /*
+                        
                         Console.WriteLine("Show solution...");
                         Console.ReadLine();
 
@@ -212,11 +212,11 @@ namespace Solitaire
                             Path[i].Draw();
                             Console.ReadLine();
                         }
-                        */
+                        
                     }
 
-                    //Console.WriteLine("\The End");
-                    //Console.ReadLine();
+                    Console.WriteLine("The End");
+                    Console.ReadLine();
                     Console.Clear();
 
                 }
